@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 天池图像比赛Baseline分享
 [2018广东工业智造大数据创新大赛——智能算法赛](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.11165320.5678.1.54114443WSKVPP&raceId=231682)，未调参情况下线上`0.921`
 ---
@@ -34,3 +33,4 @@
 注：只用到了guangdong_round1_train2_20180916数据，没有使用guangdong_round1_train1_20180903，可自行添加。
 
     许多同学反应Windows下训练时train_loader报错的问题，将workers设为0即可解决。
+
